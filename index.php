@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    <h1><?php echo "My Second Website" ?></h1>
+    <h1>My Second Website</h1>
 </body>
 
 </html>
